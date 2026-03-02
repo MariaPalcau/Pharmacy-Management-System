@@ -13,10 +13,10 @@ Aplicatia faciliteaza stocarea si actualizarea datelor despre produse, crearea d
 - controlul accesului in functie de rol
 
 ## Arhitectura
-![clase UML](documentatie-ghid-utlizare-raport/PharmacyManagementSystem-UMLclasses.jpeg)
+![clase UML](PharmacyManagementSystem-UMLclasses.jpeg)
 
 ## Functionalitati/Exemple utilizare
-![cazuri de utilizare UML](documentatie-ghid-utlizare-raport/PharmacyManagementSystem-UMLusecases.jpeg)
+![cazuri de utilizare UML](PharmacyManagementSystem-UMLusecases.jpeg)
 
 - Farmacist
 1. Autentificare (Login): farmacistul se autentifica in sistem folosind numele de utilizator si parola.
