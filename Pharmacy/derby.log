@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Jan 21 09:07:17 EET 2026:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-019b-df61-0a50-00000d2f0e28 
+on database directory memory:C:\Users\Maria\eclipse-workspace\Pharmacy\pharmacyDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c647e05 
+Loaded from file:/C:/Users/Maria/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=21.0.8+9-LTS
+user.dir=C:\Users\Maria\eclipse-workspace\Pharmacy
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
