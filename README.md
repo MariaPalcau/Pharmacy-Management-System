@@ -31,6 +31,3 @@ Aplicatia faciliteaza stocarea si actualizarea datelor despre produse, crearea d
 2. Aprobarea comenzilor (Approve Orders) Permite managerului sa aprobe sau sa respinga comenzile create de farmacist.
 3. Vizualizarea rapoartelor (View Reports) Genereaza rapoarte despre vanzarile in cursul zilei si a lunei, despre cele mai cumparate medicamente sau despre activitatea farmacistilor.
 4. Vizualizarea stocului (View Stock) Ofera o imagine de ansamblu asupra stocurilor.
-
-#### Resurse
-Markdown Guide, [Online] Available: https://www.markdownguide.org/basic-syntax/ [accesed: Mar 14, 1706]
